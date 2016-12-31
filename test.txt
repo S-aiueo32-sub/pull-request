@@ -1,0 +1,7 @@
+\setion{1}
+テキストテキスト
+\setion{2}
+
+\setion{3}
+
+\setion{4}
